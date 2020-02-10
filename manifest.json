@@ -28,7 +28,7 @@
     }],
   "lang": "en-US",
   "start_url": "/PWA.io/index.html",
-  "display": "fullscreen",
+  "display": "browser",
   "background_color": "white",
   "theme_color": "white"
 }
